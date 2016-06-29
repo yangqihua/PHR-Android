@@ -81,6 +81,7 @@ public class MainActivity extends FragmentActivity {
 		textviews[0] = (TextView) findViewById(R.id.tv_weixin);
 		textviews[1] = (TextView) findViewById(R.id.tv_contact_list);
 		textviews[2] = (TextView) findViewById(R.id.tv_find);
+//		textviews[0].setTextColor(0xFF45C01A);
 		textviews[0].setTextColor(0xFF45C01A);
 	}
 	
